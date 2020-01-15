@@ -1,0 +1,23 @@
+[2020-01-14 20:43:22.881] [sharedprocess] [info] main {"machineId":"de10bb463d853cf526de960131b02e6bf389681de71f9c3a3d44f39e82956b79","windowId":2}
+[2020-01-14 20:43:26.804] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-dependency /home/luis/.vscode/extensions/vscjava.vscode-java-dependency-0.6.0
+[2020-01-14 20:43:27.034] [sharedprocess] [info] Deleted from disk visualstudioexptteam.vscodeintellicode /home/luis/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.2
+[2020-01-14 20:43:27.034] [sharedprocess] [info] Deleted from disk vscjava.vscode-maven /home/luis/.vscode/extensions/vscjava.vscode-maven-0.20.1
+[2020-01-14 20:43:32.340] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-01-14 20:43:32.341] [sharedprocess] [info] Installing extension: jpoissonnier.vscode-styled-components
+[2020-01-14 20:43:33.276] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/a62e07ad-80df-41be-8449-ef993a71a259
+[2020-01-14 20:43:33.625] [sharedprocess] [info] Extracted extension to /home/luis/.vscode/extensions/.dbaeumer.vscode-eslint-2.0.14: dbaeumer.vscode-eslint
+[2020-01-14 20:43:33.626] [sharedprocess] [info] Renamed to /home/luis/.vscode/extensions/dbaeumer.vscode-eslint-2.0.14
+[2020-01-14 20:43:33.629] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-01-14 20:43:33.735] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-01-14 20:43:34.131] [sharedprocess] [info] Downloaded extension: jpoissonnier.vscode-styled-components /tmp/1399b6b0-fa97-4a2c-a89b-21f2aac6e86c
+[2020-01-14 20:43:35.406] [sharedprocess] [info] Extracted extension to /home/luis/.vscode/extensions/.jpoissonnier.vscode-styled-components-0.0.28: jpoissonnier.vscode-styled-components
+[2020-01-14 20:43:35.406] [sharedprocess] [info] Renamed to /home/luis/.vscode/extensions/jpoissonnier.vscode-styled-components-0.0.28
+[2020-01-14 20:43:35.408] [sharedprocess] [info] Installation completed. jpoissonnier.vscode-styled-components
+[2020-01-14 20:43:35.518] [sharedprocess] [info] Extensions installed successfully: jpoissonnier.vscode-styled-components
+[2020-01-14 20:44:02.758] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-14 20:45:40.650] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-01-14 20:45:44.584] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/c5b9674a-9dc2-4e89-b6c1-1042c08c5688
+[2020-01-14 20:45:45.872] [sharedprocess] [info] Extracted extension to /home/luis/.vscode/extensions/.pkief.material-icon-theme-3.9.2: pkief.material-icon-theme
+[2020-01-14 20:45:45.873] [sharedprocess] [info] Renamed to /home/luis/.vscode/extensions/pkief.material-icon-theme-3.9.2
+[2020-01-14 20:45:45.875] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-01-14 20:45:45.922] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
