@@ -1,6 +1,7 @@
 # Semana-OmniStack
 
-Projeto Buscador de Dev's
+- Projeto Buscador de Dev's
+- projeto Desenvolvido na semana omnistack 10, com o intuito de compreender e desenvolver com a tecnologia javascript, usando as bibliotecas ReactJs(https://pt-br.reactjs.org/), React-Native(https://facebook.github.io/react-native/) e NodeJs(https://nodejs.org/en/).
 
 # Back-end
 - NodeJs, MongoDB
