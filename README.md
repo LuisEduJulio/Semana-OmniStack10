@@ -14,7 +14,7 @@ https://nodejs.org/en/
 - I - Criar uma pasta do projeto;  
 - II - Criar uma pasta do back-end do projeto;
 - III - Digitar no console do terminal o comando yarn init;
-- IV - Instalar os pacotes(yarn add <pacote>):
+- IV - Instalar os pacotes (yarn add "pacote"):
 -  IV.I - Axios;
 -  IV.II - Cors;
 -  IV.III - Express;
