@@ -2,5 +2,11 @@
     "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme",
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "emmet.syntaxProfiles": {
+        "javascript":"jsx",
+    },
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact",
+    }
 }

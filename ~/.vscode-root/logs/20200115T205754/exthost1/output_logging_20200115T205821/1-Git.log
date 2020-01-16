@@ -127,3 +127,123 @@ Error: ENOENT: no such file or directory, watch '/home/luis/Documentos/Semana-Om
 	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
 	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
 > git config --get commit.template
+> git status -z -u
+> git show :backend/src/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/luis/Documentos/Semana-OmniStack10/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/luis/Documentos/Semana-OmniStack10/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:591370)
+	at E.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:123066)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:913)
+	at T.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:141851)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :web/src/logo.svg
+> git show :web/src/setupTests.js
+> git show :web/src/setupTests.js
+> git show :web/src/serviceWorker.js
+> git show :web/src/index.js
+> git show :web/src/App.js
+> git show :web/src/global.css
+> git check-ignore -v -z --stdin
+> git show :web/src/App.js
+> git show :web/src/global.css
+> git show :web/src/app.css
+> git check-ignore -v -z --stdin
+> git show :web/src/App.js
+> git show :web/src/index.js
+> git show :web/src/App.js
+> git check-ignore -v -z --stdin
+> git show :web/src/App.js
+> git show :web/src/App.js
+> git show :web/src/App.js
+> git show :web/src/App.js
+> git show :web/src/sidebar.css
+> git check-ignore -v -z --stdin
+> git show :web/src/App.js
+> git show :web/src/sidebar.css
+> git show :web/src/App.js
+> git show :web/src/sidebar.css
+> git show :web/src/App.js
+> git show :web/src/sidebar.css
+> git show :web/src/App.js
+> git show :web/src/main.css
+> git check-ignore -v -z --stdin
+> git show :web/src/App.js
+> git show :web/src/main.css
+> git show :web/src/App.js
+> git show :web/src/main.css
+> git show :web/src/App.js
+> git show :web/src/app.css
+> git show :web/src/App.js
+> git show :web/src/main.css
+> git show :web/src/App.js
+> git show :web/src/app.css
+> git show :web/src/main.css
+> git show :web/src/App.js
+> git show :web/src/main.css
+> git show :web/src/App.js
+> git show :web/src/main.css
+> git show :web/src/App.js
+> git show :web/src/main.css
+> git show :web/src/App.js
+> git show :web/src/main.css
+> git show :web/src/App.js
+> git show :web/src/sidebar.css
+> git show :web/src/App.js
+> git show :web/src/sidebar.css
+> git show :web/src/main.css
+> git show :backend/src/index.js
+> git show :web/src/App.js

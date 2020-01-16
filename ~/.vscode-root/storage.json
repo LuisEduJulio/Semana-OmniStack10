@@ -383,7 +383,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -842,8 +843,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1401,5 +1401,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#282a36",
-    "pickerWorkingDir": "/home/luis/Documentos"
+    "pickerWorkingDir": "/home/luis/Documentos",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/luis/Documentos/Semana-OmniStack10",
+            "backupPath": "/home/luis/Documentos/Semana-OmniStack10/~/.vscode-root/Backups/56686fc67ce61b88c57b681f862942bb",
+            "uiState": {
+                "mode": 1,
+                "x": 174,
+                "y": 30,
+                "width": 1024,
+                "height": 704
+            }
+        },
+        "openedWindows": []
+    }
 }
