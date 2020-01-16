@@ -6,9 +6,9 @@ Projeto Buscador de Dev's
 - NodeJs, MongoDB
 
 # Instalar Yarn (Global)
-https://yarnpkg.com/lang/en/
+- https://yarnpkg.com/lang/en/
 # Instalar NodeJs (Global)
-https://nodejs.org/en/
+- https://nodejs.org/en/
 
 # Passos
 - I - Criar uma pasta do projeto;  
