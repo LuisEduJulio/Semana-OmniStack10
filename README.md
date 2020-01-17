@@ -30,3 +30,8 @@
    };
 - IX - Digitar no console do terminal, na raiz do projeto, yarn dev;
 - X - Pronto, aplicação está online!
+
+# Front-end - Web
+- ReactJs
+# Front-end - Mobile
+- React-Native
