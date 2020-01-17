@@ -2,6 +2,7 @@
     "telemetry.machineId": "de10bb463d853cf526de960131b02e6bf389681de71f9c3a3d44f39e82956b79",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/luis/Documentos/Semana-OmniStack10",
             "file:///home/luis/Documentos/Semana%20OmniStack/backend"
         ],
         "files2": []
@@ -51,7 +52,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/luis/Documentos/Semana OmniStack/backend",
+                                        "fsPath": "/home/luis/Documentos/Semana-OmniStack10",
+                                        "external": "file:///home/luis/Documentos/Semana-OmniStack10",
+                                        "path": "/home/luis/Documentos/Semana-OmniStack10",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documentos/Semana-OmniStack10"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/luis/Documentos/Semana%20OmniStack/backend",
                                         "path": "/home/luis/Documentos/Semana OmniStack/backend",
                                         "scheme": "file"
@@ -385,8 +397,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -845,7 +856,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1401,7 +1413,7 @@
             }
         }
     },
-    "pickerWorkingDir": "/home/luis/Documentos/Semana OmniStack",
+    "pickerWorkingDir": "/home/luis/Documentos",
     "windowsState": {
         "lastActiveWindow": {
             "folder": "file:///home/luis/Documentos/Semana%20OmniStack/backend",
