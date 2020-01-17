@@ -94,7 +94,8 @@
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -383,8 +384,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1408,7 +1408,7 @@
             "backupPath": "/home/luis/Documentos/Semana-OmniStack10/~/.vscode-root/Backups/56686fc67ce61b88c57b681f862942bb",
             "uiState": {
                 "mode": 1,
-                "x": 174,
+                "x": 141,
                 "y": 30,
                 "width": 1024,
                 "height": 704
